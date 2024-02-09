@@ -1,0 +1,316 @@
+Uri: https://zh-logistics.kz/
+File Name: D:\верстка\Новая папка\zh-logistics.kz\index.htm
+Content Type: text/html
+
+Uri: https://zh-logistics.kz/favicon.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\favicon.png
+Content Type: image/png
+
+Uri: https://zh-logistics.kz/assets/css/bootstrap.min.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/flaticon.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/fontawesome.min.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/owl.carousel.min.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/owl.theme.default.min.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/slicknav.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\slicknav.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/animate.min.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/style.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\style.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/responsive.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/css/custom.css
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://zh-logistics.kz/assets/js/jquery-3.3.1.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/img/zharyq-logo-text.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\zharyq-logo-text.png
+Content Type: image/png
+
+Uri: https://zh-logistics.kz/img/part-logo-1.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-2.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-3.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-4.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-5.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-8.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/img/part-logo-9.jpeg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\img\part-logo-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/js/popper.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/bootstrap.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/owl.carousel.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/isotope.pkgd.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/jquery.slicknav.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\jquery.slicknav.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/wow.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/YTPlayer.min.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/js/main.js
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticon.eot
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticond41d.eot?
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticond41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticon.woff2
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticon.woff
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticon.ttf
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://zh-logistics.kz/assets/fonts/Flaticon.svg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400.eot
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400d41d.eot?
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400.woff2
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400.woff
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400.ttf
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-brands-400.svg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400.eot
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400d41d.eot?
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400.woff2
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400.woff
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400.ttf
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-regular-400.svg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900.eot
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900d41d.eot?
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900.woff2
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900.woff
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900.ttf
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://zh-logistics.kz/assets/fonts/fa-solid-900.svg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://zh-logistics.kz/assets/css/owl.video.play.html
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://zh-logistics.kz/assets/img/loading.gif
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: https://zh-logistics.kz/assets/img/prev.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\prev.png
+Content Type: image/png
+
+Uri: https://zh-logistics.kz/assets/img/next.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\next.png
+Content Type: image/png
+
+Uri: https://zh-logistics.kz/assets/img/close.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\close.png
+Content Type: image/png
+
+Uri: https://zh-logistics.kz/assets/img/home_1/hero_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_1\hero_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/features_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\features_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/about_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\about_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/temonial-1.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\temonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/quote_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\quote_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/cta_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\cta_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/home_2/hero_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_2\hero_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/home_2/feature_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_2\feature_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/home_2/testimonial_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_2\testimonial_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/home_3/hero_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_3\hero_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/home_3/about_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\home_3\about_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/about/breadcrumb_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\about\breadcrumb_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/about/about.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\about\about.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/services/breadcrumb_bg.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\services\breadcrumb_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/service_single/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\service_single\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/blog/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\blog\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/testimonial/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\testimonial\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/faq/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\faq\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/quote/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\quote\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/contact/breadcrumb.jpg
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\contact\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://zh-logistics.kz/assets/img/rate-star.png
+File Name: D:\верстка\Новая папка\zh-logistics.kz\assets\img\rate-star.png
+Content Type: image/png
+
