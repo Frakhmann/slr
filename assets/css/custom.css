@@ -1,0 +1,51 @@
+html {
+  scroll-behavior: smooth;
+}
+
+a.boxed-btn, button.boxed-btn {
+    background-color: #e58e32;
+}
+
+.home-3 ul.social-links::after {
+	display: none;
+}
+
+.service-section.home-3 .single-service {
+	display: block;
+	cursor: pointer;
+}
+
+.service-txt {
+	margin-top: 30px !important;
+}
+.service-txt h4 {
+	text-align: center;
+}
+
+.single-service-icon-wrapper {
+	margin: 0 !important;
+	text-align: center;
+}
+
+.service-section.home-3 .single-service:hover {
+    
+}
+.social-link {
+    color: #b7cee1;
+    font-size: 24px;
+    margin-right: 20px;
+}
+.service-section.home-3 .single-service:hover i, .service-section.home-3 .single-service:hover h4, .service-section.home-3 .single-service:hover p {
+	color: #a5a5a5;
+}
+.service-section.home-3 .single-service:hover::before, .service-section.home-3 .single-service:hover::after {
+	border: 0 !important;
+}
+
+.about-section .about-points .single-point .icon-wrapper {
+	background-color: #e58e32;
+}
+
+.home-3 ul.social-links {
+	margin-right: 0;
+}
