@@ -751,8 +751,8 @@ h2.subtitle::after {
 }
 
 .logo-wrapper img {
-    max-width: 230px;
-    max-height: 55px;
+    max-width: 240px;
+    max-height: 75px;
 }
 
 .support-bar {
@@ -1361,7 +1361,7 @@ ul.search-cart-area {
     width: 100%;
 }
 
-.hero-area .hero-txt > span {
+.hero-area .hero-txt>span {
     display: inline-block;
     font-weight: 600;
     font-size: 18px;
@@ -2124,8 +2124,8 @@ footer .logo-wrapper {
 }
 
 footer .logo-wrapper img {
-    max-width: 230px;
-    max-height: 55px;
+    max-width: 255px;
+    max-height: 65px;
 }
 
 footer .top-footer {
@@ -2629,8 +2629,8 @@ footer .bottom-footer {
 }
 
 .header-area.sticky-navbar.home-3 .support-nav-area {
-    background-color: #5e8db6;
     border: none;
+    background-image: linear-gradient(to right, #ffffff 20%, #1f415f 50%);
 }
 
 .home-3.sticky-navbar .support-nav-area {
@@ -2777,7 +2777,7 @@ footer .bottom-footer {
     padding: 120px 0px 96px;
     background-color: #1f415f;
     position: relative;
-	height:100%;
+    height: 100%;
 }
 
 .about-section .about-points::after {
@@ -3262,7 +3262,7 @@ footer .bottom-footer {
     width: 100%;
 }
 
-.service-details-desc > h2.title {
+.service-details-desc>h2.title {
     font-size: 36px;
     font-weight: 700;
     color: #183650;
@@ -3278,7 +3278,7 @@ footer .bottom-footer {
     margin-top: 46px;
 }
 
-.service-details-desc .overview > h3.title {
+.service-details-desc .overview>h3.title {
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
@@ -3643,7 +3643,7 @@ ul.overview-points li::before {
     color: #fff;
 }
 
-.subscribe-section > span {
+.subscribe-section>span {
     display: inline-block;
     font-size: 14px;
     font-weight: 600;
@@ -4570,6 +4570,7 @@ div#map {
     background-color: #fff;
 }
 
+
 /*---------------------------
 ** Category Page CSS
 ---------------------------*/
@@ -4905,11 +4906,11 @@ div#map {
     background-color: #eee;
 }
 
-.filter .container:hover input ~ .checkmark {
+.filter .container:hover input~.checkmark {
     background-color: none;
 }
 
-.filter .container input:checked ~ .checkmark {
+.filter .container input:checked~.checkmark {
     background-color: #1f415f;
 }
 
@@ -4919,7 +4920,7 @@ div#map {
     display: none;
 }
 
-.filter .container input:checked ~ .checkmark:after {
+.filter .container input:checked~.checkmark:after {
     display: block;
 }
 
@@ -5078,7 +5079,7 @@ div#map {
     background-color: red;
 }
 
-.color.filter .container input:checked ~ .checkmark.red {
+.color.filter .container input:checked~.checkmark.red {
     background-color: red;
 }
 
@@ -5086,8 +5087,7 @@ div#map {
     background-color: green;
 }
 
-
-.color.filter .container input:checked ~ .checkmark.green {
+.color.filter .container input:checked~.checkmark.green {
     background-color: green;
 }
 
@@ -5095,7 +5095,7 @@ div#map {
     background-color: purple;
 }
 
-.color.filter .container input:checked ~ .checkmark.purple {
+.color.filter .container input:checked~.checkmark.purple {
     background-color: purple;
 }
 
@@ -5103,7 +5103,7 @@ div#map {
     background-color: blue;
 }
 
-.color.filter .container input:checked ~ .checkmark.blue {
+.color.filter .container input:checked~.checkmark.blue {
     background-color: blue;
 }
 
@@ -5290,6 +5290,7 @@ div#map {
     display: flex;
 }
 
+
 /*---------------------------
 ** Product Details Page CSS
 ---------------------------*/
@@ -5371,7 +5372,6 @@ div#map {
 .product-thumb-slider.owl-carousel {
     margin-top: 10px;
 }
-
 
 .product-thumb-slider .single-product img.big {
     display: none;
@@ -5474,7 +5474,8 @@ div#map {
     margin-bottom: 20px;
 }
 
-.review-form .form-element input, .review-form .form-element select {
+.review-form .form-element input,
+.review-form .form-element select {
     border: 1px solid #f1f1f1;
 }
 
@@ -5567,6 +5568,7 @@ div#map {
 .product-details .avg-rating {
     margin-bottom: 24px;
 }
+
 
 /*---------------------------
 ** Cart Page CSS
@@ -5777,6 +5779,7 @@ a.cartbtn.shop:hover {
     color: #1f415f;
 }
 
+
 /*---------------------------
 ** Checkout Page CSS
 ---------------------------*/
@@ -5833,9 +5836,11 @@ a.cartbtn.shop:hover {
 .shipping-address .form-element select {
     border: 1px solid #f1f1f1;
 }
-.part{
-	width:20% !important;
+
+.part {
+    width: 20% !important;
 }
-.part :firs-child{
-	height:100%;
+
+.part :firs-child {
+    height: 100%;
 }
